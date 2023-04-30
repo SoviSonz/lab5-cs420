@@ -2,4 +2,4 @@
 
 ## Link to Haskell code (online compiler): https://onecompiler.com/haskell/3z75k5g6a. I wasn't able to download Haskell so I had to use an online compiler. 
 
-## Outputs and Q&A are in the PDF within the zip. 
+## Outputs and Q&A
